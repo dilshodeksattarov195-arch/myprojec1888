@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervetch",
+        "uuid": 2594112,
+        "checksum": "0vji7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
